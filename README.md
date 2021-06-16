@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arben40
-- 👀 I’m interested in Linux, Windows, Python, Android
-- 🌱 I’m currently learning Linux, Python
+- 👀 I’m interested in Linux, Python, Android, MySQL, HTML
+- 🌱 I’m currently learning Linux, Python, HTML
 - 📫 How to reach me: arben@arben40.xyz
 
 <!---
