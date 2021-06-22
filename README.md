@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arben40
+- 👋 Hi, I’m @ArbenP
 - 👀 I’m interested in Linux, Python, Android, MySQL, HTML
 - 🌱 I’m currently learning Linux, Python, HTML
 - 📫 How to reach me: arben@arben40.xyz
